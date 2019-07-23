@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/food.iml" filepath="$PROJECT_DIR$/food.iml" />
+      <module fileurl="file://$PROJECT_DIR$/food-eureka/food-eureka.iml" filepath="$PROJECT_DIR$/food-eureka/food-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/food-eureka-service-one/food-eureka-service-one.iml" filepath="$PROJECT_DIR$/food-eureka-service-one/food-eureka-service-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/food-eureka-web-one/food-eureka-web-one.iml" filepath="$PROJECT_DIR$/food-eureka-web-one/food-eureka-web-one.iml" />
+    </modules>
+  </component>
+</project>
